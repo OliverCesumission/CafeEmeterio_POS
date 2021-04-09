@@ -1,0 +1,25 @@
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.exe.config
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmLogin.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.Resources.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.vbproj.GenerateResource.Cache
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.exe
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.pdb
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.xml
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.exe
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.xml
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.pdb
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmMain.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmPOS.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\bin\Debug\CafeEmeterioPOS.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\bin\Debug\CafeEmeterioPOS.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\bin\Debug\CafeEmeterioPOS.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\bin\Debug\CafeEmeterioPOS.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmLogin.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmMain.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmPOS.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.vbproj.GenerateResource.Cache
