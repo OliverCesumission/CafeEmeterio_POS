@@ -70,6 +70,14 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddEmployee.vb" />
+    <Compile Include="EmployeeInfo.vb" />
+    <Compile Include="frmEmployeeInformation.Designer.vb">
+      <DependentUpon>frmEmployeeInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
     </Compile>
@@ -80,6 +88,12 @@
       <DependentUpon>frmPOS.vb</DependentUpon>
     </Compile>
     <Compile Include="frmPOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.vb">
+      <DependentUpon>frmUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SQLControl.vb" />
@@ -107,6 +121,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmEmployeeInformation.resx">
+      <DependentUpon>frmEmployeeInformation.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.vb</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +132,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPOS.resx">
       <DependentUpon>frmPOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
