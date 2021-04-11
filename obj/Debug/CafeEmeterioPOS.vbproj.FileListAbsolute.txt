@@ -23,3 +23,5 @@ C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debu
 C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmPOS.resources
 C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.Resources.resources
 C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmUsers.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CafeEmeterioPOSv1.0\obj\Debug\CafeEmeterioPOS.frmEmployeeInformation.resources

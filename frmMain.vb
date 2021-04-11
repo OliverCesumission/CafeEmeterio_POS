@@ -14,4 +14,8 @@
         frmPOS.Show()
 
     End Sub
+
+    Private Sub mnuUsers_Click(sender As Object, e As EventArgs) Handles mnuUsers.Click
+        frmUsers.Show()
+    End Sub
 End Class

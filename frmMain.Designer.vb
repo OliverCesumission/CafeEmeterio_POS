@@ -35,6 +35,7 @@ Partial Class frmMain
         '
         'mnuStrip
         '
+        Me.mnuStrip.ImageScalingSize = New System.Drawing.Size(20, 20)
         Me.mnuStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuPOS, Me.mnuMaintenance, Me.mnuExit})
         Me.mnuStrip.Location = New System.Drawing.Point(0, 0)
         Me.mnuStrip.Name = "mnuStrip"
@@ -58,26 +59,26 @@ Partial Class frmMain
         'mnuUsers
         '
         Me.mnuUsers.Name = "mnuUsers"
-        Me.mnuUsers.Size = New System.Drawing.Size(115, 24)
+        Me.mnuUsers.Size = New System.Drawing.Size(181, 26)
         Me.mnuUsers.Text = "Users"
         '
         'mnuMenu
         '
         Me.mnuMenu.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuCategory, Me.mnuItems})
         Me.mnuMenu.Name = "mnuMenu"
-        Me.mnuMenu.Size = New System.Drawing.Size(115, 24)
+        Me.mnuMenu.Size = New System.Drawing.Size(181, 26)
         Me.mnuMenu.Text = "Menu"
         '
         'mnuCategory
         '
         Me.mnuCategory.Name = "mnuCategory"
-        Me.mnuCategory.Size = New System.Drawing.Size(138, 24)
+        Me.mnuCategory.Size = New System.Drawing.Size(144, 26)
         Me.mnuCategory.Text = "Category"
         '
         'mnuItems
         '
         Me.mnuItems.Name = "mnuItems"
-        Me.mnuItems.Size = New System.Drawing.Size(138, 24)
+        Me.mnuItems.Size = New System.Drawing.Size(144, 26)
         Me.mnuItems.Text = "Items"
         '
         'mnuExit
